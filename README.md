@@ -1,0 +1,1 @@
+Tugas ini bertujuan untuk membuat sebuah array secara acak dengan index 100. Lalu membagi array tersebut berdasarkan index genap atau ganjil. Diakhiri dengan menghitung nilai statistik seperti minimum, maksimum, total, rata-rata dan juga melakukan berbagai perbandingan pada kedua array.
